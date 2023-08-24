@@ -12,5 +12,5 @@ Contents
 
    intro
    components
-   avantages
+   advantages
    disadvantages
