@@ -1,7 +1,7 @@
 Welcome to the docs-as-code workhop docs
 ========================================
 
-.. image:: ../../images/nordic-herbst.png
+.. image:: ../../images/nordic-herbst_short.png
 
 .. note::
 
