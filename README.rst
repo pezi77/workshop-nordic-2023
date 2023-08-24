@@ -1,5 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+Template for the Read the Docs tutorial to show docs-as-code to Nordic TechKomm people
+=======================================================================================
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
