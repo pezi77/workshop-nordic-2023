@@ -1,5 +1,8 @@
-Template for the Read the Docs tutorial to show docs-as-code to Nordic TechKomm people
-=======================================================================================
+Template for the Read the Docs tutorial 
+==============================================
+_to show docs-as-code to Nordic TechKomm people_
+
+.. figure:: Nordic 23_LI-herbst2.png
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
