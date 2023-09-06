@@ -4,7 +4,7 @@ PETRA sample file
 
 See below for different lists
 
-------
+
 Lists
 ------
 
@@ -19,7 +19,6 @@ Lists
 #. It has two items too.
 
 
-------
 Sample table
 ------
 
