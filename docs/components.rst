@@ -9,3 +9,5 @@ Main components
 * Collaboration using git (branch, merge, push)
 * CI/CD for automating the build of the target files
 * Automated tests (link checker, formatting, terminology)
+
+.. figure:: ../images/process.png
