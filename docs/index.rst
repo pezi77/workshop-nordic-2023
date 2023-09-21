@@ -17,17 +17,7 @@ Contents
    advantages
    disadvantages
    petra
-
-
    tobias
-
-
-
-
-
-
-
-
-
-  jackie 
+   jackie
+   Darya
 
