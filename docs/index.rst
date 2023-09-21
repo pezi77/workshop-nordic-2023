@@ -19,11 +19,11 @@ Contents
    petra
    tobias
    jackie
-   Darya
+   darya
    handling_reviews
    peter
    lara
-   Victoria
-   Kirsten
-   Helene
+   victoria
+   kirsten
+   helene
 
